@@ -1,4 +1,4 @@
-# Practicing Inheritance
+# More on Inheritance
 
 ## Instructions
 - You will write a program that extends the Polygon class (provided in Moodle) with the following details
